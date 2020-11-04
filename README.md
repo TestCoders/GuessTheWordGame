@@ -22,5 +22,5 @@ Geef nu feedback over het aantal karakters. Is deze minder, gelijk of meer dan d
 <h3>Opdracht 3</h3>
 Geef nu feedback of er letters in de user input overeenkomen met de MagicWord
 
-<h3><Opdracht 4</h3>
+<h3>Opdracht 4</h3>
 Geef nu feedback of er letters in de user input op de correcte plek staan in de MagicWord. Geef nu ook feedback als letters die wel overeenkomen, maar niet op de juiste plek staan
