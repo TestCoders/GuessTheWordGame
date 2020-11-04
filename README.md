@@ -2,7 +2,7 @@
 Create a short game where a user tries to guess a word
 
 "Henk", "Sjaak", "Bier", "Pubquiz", "Testcoders", "Scheissarbeid", "Koekenpan",
-"Word", "Wak", "Vet", "Leip"
+"Word", "Wak", "Vet", "Leip", "Rona", "Koningsdag?", "Wintersport?", "Urenapp", "Googledag"
 
 <h2>Doel</h2>
 Opdracht is om een kort spelletje te maken waar de gebruiker input kan leveren om een woord te raden. De gebruiker kan feedback krijgen of het woord goed of fout is. De opdrachten breiden zich steeds verder uit om gerichtere feedback te leveren aan de gebruiker. Hierboven wat voorbeeld woordjes. Je mag natuurlijk zo veel woorden toevoegen als je wil :) 
