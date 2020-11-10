@@ -17,6 +17,12 @@ while not good_input and attempts < 5:
     playersGuess = input()
     if playersGuess != MagicWord:
         attempts = attempts + 1
+        if len(MagicWord) < len(playersGuess):
+            print('Jouw woord is langer dan het te raden woord')
+        if len(MagicWord) > len(playersGuess):
+            print('Jouw woord is korter dan het te raden woord')
+        if len(MagicWord) == len(playersGuess):
+            print('Jouw woord is net zo lang als het te raden woord')
         print('Probeer het nog een keer!')
     else:
         good_input = playersGuess
